@@ -18,4 +18,4 @@ console.log(listaDedestinos);
 listaDedestinos.splice(1,1);
 console.log(listaDedestinos);
 
-console.log(listaDedestinos[1]);
+console.log(listaDedestinos[1], listaDedestinos[0]);
